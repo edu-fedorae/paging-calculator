@@ -8,7 +8,7 @@ cd paging-calculator
 
 python main.py
 ```
-
+# Screenshot
 ![Screenshot](Screenshot.jpg)
 
 # Known bugs:
