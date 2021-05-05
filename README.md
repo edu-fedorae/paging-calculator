@@ -9,7 +9,7 @@ cd paging-calculator
 python main.py
 ```
 
-![Screenshot](https://github.com/edu-fedorae/paging-calculator/Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 # Known bugs:
 [*] Has no error handling
