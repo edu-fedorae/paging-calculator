@@ -2,8 +2,14 @@
 
 # Run
 ```
+git clone https://github.com/edu-fedorae/paging-calculator.git
+
+cd paging-calculator
+
 python main.py
 ```
+
+![Screenshot](https://github.com/edu-fedorae/paging-calculator/Screenshot.jpg)
 
 # Known bugs:
 [*] Has no error handling
