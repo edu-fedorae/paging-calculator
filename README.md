@@ -16,6 +16,6 @@ python main.py
 
 .........................
 
-Made by [Fedorae Education](https://edu.fedorae.com) a [Fedorae](https://fedorae.com) company.
+Made by [Fedorae Education](https://edu.fedorae.com) a [Fedorae](https://fedorae.com), LTD. company.
 
 For more visit https://github.com/edu-fedorae
